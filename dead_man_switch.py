@@ -16,12 +16,12 @@ while True:
     # Espera por el tiempo especificado
     time.sleep(waiting_time)
 
-    # Imprime la calavera al principio y al final del mensaje
+
     print("☠️ - Se ha realizado una acción - ☠️")
 
     # Realiza alguna acción aquí...
 
-    # Imprime la calavera al principio y al final del mensaje
+
     print("☠️ - Se ha enviado un correo electrónico - ☠️")
 
     # Envía el correo electrónico
@@ -32,4 +32,4 @@ while True:
         server.login(sender_email, password)
         server.sendmail(sender_email, receiver_email, message)
         print(f"☠️ - Correo electrónico enviado a {receiver_email} - ☠️")
-/
+
