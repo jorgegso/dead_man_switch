@@ -18,6 +18,7 @@ Puedes instalar los paquetes necesarios ejecutando el siguiente comando:
 
 
 
+
 ## Uso
 
 Para utilizar este script, sigue los siguientes pasos:
@@ -28,7 +29,9 @@ Para utilizar este script, sigue los siguientes pasos:
 
 
 
-python3 dead_mans_switch.py
+``` python3 dead_mans_switch.py ```
+
+
 
 
 4. Sigue las instrucciones en pantalla para configurar el script según tus necesidades.
