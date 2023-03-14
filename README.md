@@ -12,7 +12,9 @@ Antes de ejecutar este script, debes tener instalado Python 3 y los siguientes p
 Puedes instalar los paquetes necesarios ejecutando el siguiente comando:
 
 
-pip install -r requirements.txt
+
+``` pip install -r requirements.txt ```
+
 
 
 
